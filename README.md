@@ -1,23 +1,24 @@
-# 深度学习在图像处理中的应用教程
+# Application Tutorial of Deep Learning in Image Processing
 
-## 前言
-* 本教程是对本人研究生期间的研究内容进行整理总结，总结的同时也希望能够帮助更多的小伙伴。后期如果有学习到新的知识也会与大家一起分享。
-* 本教程会以视频的方式进行分享，教学流程如下：  
-1）介绍网络的结构与创新点  
-2）使用Pytorch进行网络的搭建与训练  
-3）使用Tensorflow（内部的keras模块）进行网络的搭建与训练 
-* 课程中所有PPT都放在`course_ppt`文件夹下，需要的自行下载。
+## Foreword
+* This tutorial is to organize and summarize the research content of my postgraduate period. At the same time, I hope to help more friends. If there is any new knowledge learned later, I will share it with you.。
+* This tutorial will be shared in the form of video, the teaching process is as follows： 
+ 
+1）Introduce the structure and innovation of the network  
+2）Use Pytorch for network construction and training 
+3）3) Use Tensorflow (internal keras module) to build and train the network
+* All PPTs in the course are placed in the `course_ppt` folder, and you need to download them yourself。
 
 
-## 教程目录，点击跳转相应视频（后期会根据学习内容增加）
+## Tutorial directory, click to jump to the corresponding video (it will be added later according to the learning content)
 
-* 图像分类
-  * LeNet（已完成）
-    * [Pytorch官方demo(Lenet)](https://www.bilibili.com/video/BV187411T7Ye)
-    * [Tensorflow2官方demo](https://www.bilibili.com/video/BV1n7411T7o6)
+* Image Classification
+  * LeNet（COMPLETED）
+    * [Pytorch official demo (Lenet)](https://www.bilibili.com/video/BV187411T7Ye)
+    * [Tensorflow2 official demo](https://www.bilibili.com/video/BV1n7411T7o6)
 
   * AlexNet（已完成）
-    * [AlexNet网络讲解](https://www.bilibili.com/video/BV1p7411T7Pc)
+    * [AlexNet network explanation](https://www.bilibili.com/video/BV1p7411T7Pc)
     * [Pytorch搭建AlexNet](https://www.bilibili.com/video/BV1W7411T7qc)
     * [Tensorflow2搭建Alexnet](https://www.bilibili.com/video/BV1s7411T7vs)
 
